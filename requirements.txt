@@ -1,0 +1,5 @@
+discord.py
+openpyxl
+random
+datetime
+gspread
